@@ -63,7 +63,6 @@ The notebook explores various machine learning models, including:
 - Decision Tree Classifier
 - Random Forest Classifier
 - XGBoost Classifier
-- Support Vector Classifier
 
 ## Results
 
